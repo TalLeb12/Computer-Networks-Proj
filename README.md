@@ -15,7 +15,7 @@ The repository is divided into two main parts:
 
 ## Technologies
 
-* Python
+* Python 
 * TCP sockets
 * Basic UI using Python
 * Network packet analysis
